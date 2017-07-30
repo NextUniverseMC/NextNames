@@ -1,0 +1,5 @@
+name: NextNames
+description: Gives people name tags
+main: ml.nextuniverse.nextnames.Main
+author: TheDiamondPicks
+version: 1.0
